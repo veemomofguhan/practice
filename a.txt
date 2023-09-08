@@ -1,1 +1,10 @@
-hi iam learning devops
+#!/bin/bash
+#
+#
+# author: veena
+#Date: 9/8/2023
+#
+#version: V1
+
+x=a+b
+
